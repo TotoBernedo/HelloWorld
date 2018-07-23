@@ -1,0 +1,14 @@
+ El volumen de la unidad C es Windows
+ El n£mero de serie del volumen es: 4C78-AD36
+
+ Directorio de C:\Users\JorgeLuis\JavaProject1
+
+23/07/2018  12:48 a.m.    <DIR>          .
+23/07/2018  12:48 a.m.    <DIR>          ..
+23/07/2018  12:44 a.m.               900 Hello.class
+22/07/2018  11:20 p.m.               144 Hello.java
+23/07/2018  12:20 a.m.                 0 index.html
+23/07/2018  12:48 a.m.                 0 leeme.txt
+23/07/2018  12:20 a.m.                36 readme.txt
+               5 archivos          1,080 bytes
+               2 dirs   8,936,308,736 bytes libres
